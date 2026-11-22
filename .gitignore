@@ -1,0 +1,7 @@
+*.o
+*.out
+a.out
+q1
+q2
+.DS_Store
+.claude/
